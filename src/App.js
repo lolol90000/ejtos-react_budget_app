@@ -1,3 +1,7 @@
+                // Budget component
+                    <div className='col-sm'>
+                        <Budget />
+                    </div>
 import React from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
